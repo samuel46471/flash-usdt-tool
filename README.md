@@ -29,7 +29,7 @@ This allows fast transfers with low fees and maximum compatibility.
 
 ## 🔗 Connect with Us
 # > 💬 Official Telegram: [https://t.me/FlashDevSamuel](https://t.me/FlashDevSamuel)
-# > 💬 Official WhatsApp: [https://wa.me/+13438221882](https://wa.me/+13438221882)
+# > 💬 Official WhatsApp: [https://wa.me/13438221882](https://wa.me/13438221882)
 
 ---
  📸 Screenshots
@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect with Us
 # > 💬 Official Telegram: [https://t.me/FlashDevSamuel](https://t.me/FlashDevSamuel)
-# > 💬 Official WhatsApp: [https://wa.me/+13438221882](https://wa.me/+13438221882)
+# > 💬 Official WhatsApp: [https://wa.me/13438221882](https://wa.me/13438221882)
 
 ---
 ## ⚠️ Disclaimer:
